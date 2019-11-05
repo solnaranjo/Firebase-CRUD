@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealTime</string>
+    <string name="add_artist">Add Artist</string>
+    <string name="update_artist">Update Artist</string>
+    <string name="get_artist">Get Artist</string>
+    <string name="delete_artist">Delete Artist</string>
+    <string name="edtIdText">ID</string>
+    <string name="edtGenre">Genero</string>
+    <string name="edtNombre">Nombre</string>
+</resources>
